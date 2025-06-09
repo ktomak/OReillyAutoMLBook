@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+scipy
+autokeras
+optuna
+ray[tune]
+nni
+autogluon
+category_encoders
+ydata-profiling
